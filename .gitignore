@@ -1,0 +1,8 @@
+/output scat.png
+/output.png
+/pie chart.png
+/test.ipynb
+/test.py
+*.pkl
+*.db
+*.parquet
